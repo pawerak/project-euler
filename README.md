@@ -1,0 +1,1 @@
+This repository is my my approch to [Project euler](https://projecteuler.net/) problems solving.
